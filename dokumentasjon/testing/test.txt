@@ -1,0 +1,11 @@
+Gå til innloggingsside
+
+Opprett ny bruker
+
+Logg inn
+
+Gå til velkomstside
+
+Logg ut
+
+Gå direkte til url etc.
